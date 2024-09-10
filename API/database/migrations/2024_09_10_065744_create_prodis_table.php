@@ -23,8 +23,7 @@ return new class extends Migration
     }
 
     /**
-     * Reverse the migrations.
-     */
+ddd     */
     public function down(): void
     {
         Schema::dropIfExists('prodis');
